@@ -1,9 +1,1 @@
-*{
-    background-color: aquamarine;
-}
-body{
-    box-sizing: border-box;
-}
-.format{
-    text-decoration: dashed;
-}
+*{box-sizing:border-box;}
